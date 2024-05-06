@@ -112,22 +112,6 @@ pip install -r requirements.txt
 
 ### Animate Your Photo
 
-Now that all the setup is complete and everything is ready to go, you'll interact with MakeItTalk through its GUI. The GUI, named MakeItTalk_Windows, has been prepared and provided. To begin using it, enter the command below in your terminal or Anaconda prompt.
+result
 
-```
-python GUI.py
-```
-
-This command will start up the program which act like a palette used to pick a face and pick an audio to animate it.
-
-<img width="247" alt="image" src="https://github.com/PhurinutR/MakeItTalk_Demo/assets/106614460/268269a2-a824-4f85-a4f0-944a66eef5f0">
-
-In the pink menu located on the left side, you can select the static face that you want to animate. On the light blue menu situated on the right side, you can choose the audio that you want the selected face to speak. Once you've made your selections, click the "Make It Talk!!" button to initiate the animation process for the chosen face.
-
-<img width="451" alt="image" src="https://github.com/PhurinutR/MakeItTalk_Demo/assets/106614460/f407aaba-e7f8-4e85-b4b6-846e87041f4d">
-
-During the calculation process, a loading bar will appear, and intermediate results and information will be displayed in the terminal or Anaconda prompt to track the progress. Once the inference is complete, a "Notice" window will appear, indicating that the process has finished. Additionally, besides the "Notice" window, the resulting video will be displayed to show the outcome of the talking head animation.
-
-<img width="451" alt="image" src="https://github.com/PhurinutR/MakeItTalk_Demo/assets/106614460/4a0721e0-7e82-435a-9c03-d055b177520a">
-
-You can experiment with MakeItTalk by selecting different faces or audio files and clicking the "Make It Talk!!" button again. After trying multiple combinations, you'll notice that the resulting video captures not only the movements of the speaker's mouth but also the entire face, including facial expressions like turning, blinking, nodding, and other gestures. This adds realism to the generated talking head animation.
+<img width="432" alt="image" src="https://github.com/chakrapaul/MakeItTalk-Project/blob/main/metadata/animation.png">
