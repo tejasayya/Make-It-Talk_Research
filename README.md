@@ -92,7 +92,7 @@ cd [path to your working directory]/[replace this with MakeItTalk_Windows]
 
 Under **MakeItTalk**, requirements.txt file is provided to help you install the packages that you need.
 
-<img width="432" alt="image" src="https://github.com/PhurinutR/MakeItTalk_Demo/assets/106614460/9d31a2d9-6401-41c9-ae67-2e2af23b88a1">
+<img width="432" alt="image" src="https://github.com/chakrapaul/MakeItTalk-Project/blob/main/metadata/requirements.png">
 
 Type the command below in the terminal or Anaconda prompt to install the python packages in the requirements.txt file.
 
@@ -104,7 +104,7 @@ pip install -r requirements.txt
 
 **Note:** This is a confidencial folder, It contains main encoders built by authors. Due to copyright issues we cannot disclose these files in our repo. If you are given the code from your supervisor, please skip this step.
 
-[Image]
+<img width="432" alt="image" src="https://github.com/chakrapaul/MakeItTalk-Project/blob/main/metadata/encoders.png">
 
 ### Animate Your Photo
 
