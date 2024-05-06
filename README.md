@@ -74,17 +74,17 @@ For Windows users, you can install FFmpeg by following the guidelines outlined i
 
 **Note:** If you are given the code from your supervisor, please skip this step, and depending on your operation system, copy either **MakeItTalk** directory to your preferred working directory.
 
-In order to get the code and try using MakeItTalk via the GUI, go to this GitHub URL: https://github.com/pooja0207k/MakeItTalk and Download **MakeItTalk** repository by clicking **Code ⇾ Download ZIP** as shown in the picture below.
+In order to get the code and try using MakeItTalk via the GUI, go to this GitHub URL: https://github.com/chakrapaul/MakeItTalk-Project and Download **MakeItTalk-Project** repository by clicking **Code ⇾ Download ZIP** as shown in the picture below.
 
 <img width="451" alt="image" src="https://github.com/pooja0207k/MakeItTalk/blob/main/metadta/Screenshot%202024-05-06%20172835.png">
 
-After downloading, extract **MakeItTalk-main.zip** and check what you have inside. At this point, you should be able to find 2 directories under the **MakeItTalk-main** folder.
+After downloading, extract **MakeItTalk-Project-main.zip** and check what you have inside. At this point, you should be able to find 2 directories under the **MakeItTalk-Project-main** folder.
 
 <img width="362" alt="image" src="https://github.com/PhurinutR/MakeItTalk_Demo/assets/106614460/d08a1827-b8ee-4762-898d-c707aa6a0ce7">
 
 if you are using Windows select **MakeItTalk** directory, cut, and paste it to a directory that you want to work on, for example, **D:** drive, **C:** drive, or others.
 
-**Note:** feel free to remove the **MakeItTalk-main** folder after cutting **MakeItTalk** to your working directory.
+**Note:** feel free to remove the **MakeItTalk-Project-main** folder after cutting **MakeItTalk** to your working directory.
 
 #### 6. Python Packages
 
