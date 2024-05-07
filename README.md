@@ -3,6 +3,8 @@
 
 <video  src="https://github.com/chakrapaul/MakeItTalk-Project/blob/main/metadata/pablo%20paul.mp4" type="video/mp4"> </video>
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Winfredy/SadTalker/blob/main/quick_demo.ipynb) &nbsp;
+
 
 ## Requirements
 
