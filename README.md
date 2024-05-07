@@ -80,7 +80,7 @@ In order to get the code and try using MakeItTalk via the GUI, go to this GitHub
 
 After downloading, extract **MakeItTalk-Project-main.zip** and check what you have inside. At this point, you should be able to find 2 directories under the **MakeItTalk-Project-main** folder.
 
-<img width="362" alt="image" src="https://github.com/PhurinutR/MakeItTalk_Demo/assets/106614460/d08a1827-b8ee-4762-898d-c707aa6a0ce7">
+<img width="362" alt="image" src="https://github.com/chakrapaul/MakeItTalk-Project/blob/main/metadata/lkl%20repo%20dwn.png">
 
 if you are using Windows select **MakeItTalk** directory, cut, and paste it to a directory that you want to work on, for example, **D:** drive, **C:** drive, or others.
 
