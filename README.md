@@ -9,7 +9,7 @@ Link to Original GitHub: [https://github.com/yzhou359/MakeItTalk](https://github
 Link to Google Colab Notebook with Instructions: [Google Colab](https://colab.research.google.com/github/chakrapaul/MakeItTalk-Project/blob/main/Collab_Makeittalk_Demo.ipynb)
 
 
-##Easy Steps to Execute in Google Colab:
+## Easy Steps to Execute in Google Colab:
 USe the [Google Colab](https://colab.research.google.com/github/chakrapaul/MakeItTalk-Project/blob/main/Collab_Makeittalk_Demo.ipynb) Link to run the inference code that will generate a lip-synced video.
 
 
