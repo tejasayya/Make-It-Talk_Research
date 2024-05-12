@@ -189,7 +189,10 @@ plt.axis('off')
 plt.show()
 ```
 
-####7. Seting up animation controllers
+<img width="432" alt="image" src="https://github.com/chakrapaul/MakeItTalk-Project/blob/main/metadata/DropDown%20box.png">
+
+
+#### 7. Seting up animation controllers
 
 ```
 #@markdown # Animation Controllers
@@ -220,6 +223,10 @@ LOWER_LIP_ADJUST = -1 #@param {type:"slider", min:-3.0, max:3.0, step:1.0}
 #@markdown Adjust static lip width (in multipication)
 LIP_WIDTH_ADJUST = 1.0 #@param {type:"slider", min:0.8, max:1.2, step:0.01}
 ```
+
+<img width="432" alt="image" src="https://github.com/chakrapaul/MakeItTalk-Project/blob/main/metadata/DropDown%20box.png">
+
+
 
 ### 8. Plotting landmarks on Image and Generating Facial Skeleton. Audio Signals maps to facial landmarks
 
