@@ -424,5 +424,14 @@ Open Jupyter Notebook from "makeittalk_env" Anaconda Environment and run This fi
 
 
 
+## Running StreamLit app: 
+# 1. Install Streamlit
+```
+pip install streamlit --user
+```
 
+#2. run the app.py file
 
+```
+streamlit run app.py
+```
