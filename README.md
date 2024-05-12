@@ -422,15 +422,15 @@ result
 ## Or Simply download ipynb file [Here](https://github.com/chakrapaul/MakeItTalk-Project/blob/main/quick_demo_tdlr.ipynb) 
 Open Jupyter Notebook from "makeittalk_env" Anaconda Environment and run This file cell by cell.
 
-
+#
 
 # Running StreamLit app: 
-## 1. Install Streamlit
+1. Install Streamlit
 ```
 pip install streamlit --user
 ```
 
-#2. run the app.py file
+2. run the app.py file
 
 ```
 streamlit run app.py
