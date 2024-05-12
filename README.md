@@ -224,7 +224,7 @@ LOWER_LIP_ADJUST = -1 #@param {type:"slider", min:-3.0, max:3.0, step:1.0}
 LIP_WIDTH_ADJUST = 1.0 #@param {type:"slider", min:0.8, max:1.2, step:0.01}
 ```
 
-<img width="432" alt="image" src="https://github.com/chakrapaul/MakeItTalk-Project/blob/main/metadata/DropDown%20box.png">
+<img width="432" alt="image" src="https://github.com/chakrapaul/MakeItTalk-Project/blob/main/metadata/controllers.png">
 
 
 
